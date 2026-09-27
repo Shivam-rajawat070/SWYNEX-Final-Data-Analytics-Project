@@ -20,7 +20,7 @@ Analyze raw e-commerce sales data to identify revenue trends, top-performing cat
 - Re-checked and confirmed **zero duplicates and zero missing values** after cleaning
 - Exported the final cleaned dataset as `cleaned_sales_dataset.csv`
 
-## 📊 Exploratory Data Analysis
+##  Exploratory Data Analysis:
 - Created a derived **Revenue** column (`Quantity × Price`)
 - Calculated summary statistics:
   - **Total Revenue:** ₹73.37M
@@ -37,19 +37,19 @@ Analyze raw e-commerce sales data to identify revenue trends, top-performing cat
 ## 📈 Dashboard
 An interactive Sales Performance Dashboard was built using **Power BI**, featuring KPIs, category and city-wise revenue charts, a monthly revenue trend line, payment mode distribution, and dynamic City/Category filters.
 
-## 💡 Key Business Insights
+## 💡 Key Business Insights:
 - **Stationery** is the top-performing category, generating the highest revenue (10.3M)
 - **Pune** and **Bangalore** are the top revenue-generating cities
 - **Cash on Delivery** is the most preferred payment mode, used in 28% of transactions
 - Average customer rating stands at **3.53 out of 5**, indicating moderate customer satisfaction
 - Revenue shows noticeable month-to-month fluctuation, suggesting seasonal buying patterns
 
-## 🛠️ Tools Used
+## 🛠️ Tools Used:
 - Python (Pandas, NumPy) — Data Cleaning & EDA
 - Matplotlib, Seaborn — Visualization
 - Power BI — Interactive Dashboard
 
-## 📁 Files in this Repository
+##  Files in this Repository:
 - `01-task.ipynb` – Data Cleaning & Preparation notebook
 - `02-task.ipynb` – Exploratory Data Analysis notebook
 - `SWYNEX-Sales-Dashboard.pbix` – Power BI dashboard file
