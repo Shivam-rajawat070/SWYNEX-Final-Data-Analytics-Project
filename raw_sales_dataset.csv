@@ -1,0 +1,201 @@
+OrderID,CustomerName,City,Category,Quantity,Price,OrderDate,PaymentMode,Rating
+1040,Suresh Nair,Pune,Furniture,3.0,16771.51,2025-07-26,Cash on Delivery,1
+1051,Rohan Mehta,hyderabad,Clothing,2.0,18504.33,9-12-2025,Credit Card,NA
+1139,Neha Kapoor,BANGALORE,Furniture,5.0,1150.33,2-3-2025,Cash on Delivery,3
+1164,Isha Malhotra,BHOPAL,Grocery,,16832.86,26-9-2025,Cash on Delivery,3
+1170,Rahul Sharma,Kolkata,Stationery,5.0,18042.3,2025-03-10,UPI,4
+1082,Arjun Reddy,Chennai,Stationery,2.0,1854.96,2025-09-25,Net Banking,NA
+1161,Sneha Patel,Mumbai,Furniture,5.0,,2025-04-01,Credit Card,1
+1046,Amit Kumar,Bhopal,Electronics,4.0,20584.92,4-7-2025,Cash on Delivery,5
+1070,Pooja Verma,mumbai,Grocery,3.0,9464.8,4/5/2025,Net Banking,3
+1100,Vikram Rao,New Delhi,Furniture,4.0,18897.98,10/25/2025,Net Banking,NA
+1179,Meera Iyer,hyderabad,Footwear,,2098.93,24/06/2025,Credit Card,NA
+1083,Divya Menon,mumbai,Clothing,5.0,6378.76,06/02/2025,,4
+1025,Vikram Rao,BHOPAL,Stationery,5.0,3830.13,5-1-2025,UPI,1
+1106,,Bangalore,Electronics,3.0,14039.21,2025-06-21,Net Banking,NA
+1159,Vikram Rao,PUNE,Furniture,4.0,9484.79,2025-11-22,UPI,five
+1173,Neha Kapoor,Mumbai,Footwear,5.0,22831.87,22/08/2025,Credit Card,1
+1095,Pooja Verma,Mumbai ,Electronics,1.0,,7-3-2025,UPI,five
+1003,Pooja Verma,Lucknow,Grocery,5.0,4928.37,2025-01-03,UPI,2
+1041,Vivek Saxena,Lucknow,Electronics,,10801.03,2025-08-28,Credit Card,
+1058,Manoj Tiwari,Kolkata,Grocery,5.0,13568.54,15/02/2025,Cash on Delivery,1
+1014,Kavita Joshi,Kolkata,Clothing,5.0,3437.95,10/19/2025,Debit Card,4
+1143,Divya Menon,Jaipur,Footwear,,1697.69,2025-09-05,Net Banking,five
+1012,Divya Menon,Pune,Stationery,,17293.21,5/23/2025,UPI,2
+1006,Rohan Mehta,Lucknow,Grocery,2.0,16437.65,11/13/2025,Debit Card,5
+1099,Anjali Gupta,Delhi,Electronics,5.0,12822.31,25-6-2025,Debit Card,4
+1161,Sneha Patel,Mumbai,Furniture,5.0,,2025-04-01,Credit Card,1
+1128,Deepak Yadav,Jaipur,Furniture,5.0,1982.71,11/11/2025,Cash on Delivery,3
+1122,Manoj Tiwari,Hyderabad,Footwear,3.0,15429.06,14/05/2025,Credit Card,3
+1101,Arjun Reddy,Bangalore,Furniture,4.0,15839.92,26/05/2025,UPI,
+1086,Amit Kumar,Hyderabad,Electronics,2.0,6984.15,21-10-2025,Cash on Delivery,
+1064,Ritu Chauhan,jaipur,Furniture,2.0,23058.42,2025-12-17,Credit Card,five
+1047,Meera Iyer,Jaipur,Footwear,5.0,6819.63,28/04/2025,UPI,
+1158,Rahul Sharma,Chennai,Electronics,4.0,8711.54,03/09/2025,Credit Card,5
+1034,Rohan Mehta,bangalore,Furniture,5.0,21265.98,8/3/2025,Net Banking,
+1038,Kavita Joshi,Pune,Footwear,2.0,1746.09,6/14/2025,,five
+1079,Sneha Patel,BANGALORE,Grocery,4.0,3035.59,2025-09-08,Cash on Delivery,five
+1004,Manoj Tiwari,HYDERABAD,Clothing,,6784.4,22/11/2025,Net Banking,4
+1072,Meera Iyer,Bengaluru,Stationery,3.0,16027.63,14-12-2025,Cash on Delivery,five
+1067,,Pune,Footwear,2.0,12458.92,2-3-2025,Credit Card,
+1145,Kavita Joshi,Kolkata,Footwear,2.0,17302.46,6/16/2025,UPI,5
+1156,Sanjay Bhatt,hyderabad,Electronics,5.0,22586.77,2025-10-07,Debit Card,2
+1115,Rahul Sharma,Bhopal,Footwear,2.0,7388.11,1-10-2025,Debit Card,2
+1155,Divya Menon,Hyderabad,Stationery,4.0,18970.16,2025-11-26,Debit Card,2
+1015,Isha Malhotra,Hyderabad,Furniture,,1496.15,21/11/2025,Credit Card,2
+1061,Deepak Yadav,bhopal,Grocery,3.0,,25/07/2025,Net Banking,NA
+1175,Sanjay Bhatt,Kolkata,Grocery,4.0,2113.63,2025-08-13,Debit Card,2
+1120,Isha Malhotra,Pune,Furniture,3.0,24347.03,12/16/2025,UPI,2
+1130,Sanjay Bhatt,Kolkata,Grocery,2.0,15931.17,2025-05-18,UPI,3
+1023,Sneha Patel,BHOPAL,Stationery,2.0,17982.66,7-11-2025,Net Banking,1
+1153,Kavita Joshi,mumbai,Furniture,3.0,23857.77,10/10/2025,UPI,1
+1031,Amit Kumar,Hyderabad,Footwear,1.0,18035.89,10-9-2025,Cash on Delivery,3
+1103,Ritu Chauhan,bhopal,Furniture,1.0,,27/06/2025,Net Banking,
+1089,Neha Kapoor,Bangalore,Stationery,5.0,14107.83,2/22/2025,UPI,five
+1132,Vivek Saxena,Pune,Electronics,4.0,22241.57,18-5-2025,Cash on Delivery,five
+1109,Divya Menon,Kolkata,Furniture,2.0,13420.18,2025-08-10,UPI,
+1126,Manoj Tiwari,Delhi,Grocery,,8783.52,3-9-2025,UPI,3
+1017,Kavita Joshi,Bangalore,Furniture,2.0,21636.56,3/2/2025,Credit Card,
+1030,Divya Menon,PUNE,Furniture,5.0,24608.26,2025-07-04,,4
+1178,Vivek Saxena,MUMBAI,Electronics,2.0,14737.85,12/25/2025,Credit Card,five
+1162,Priya Singh,Pune,Stationery,2.0,18896.48,2025-01-25,Net Banking,NA
+1077,Kavita Joshi,Pune,Stationery,3.0,2394.03,13-1-2025,Net Banking,5
+1073,Sneha Patel,CHENNAI,Stationery,3.0,24818.4,1/10/2025,,1
+1071,Deepak Yadav,Lucknow,Furniture,5.0,,15-11-2025,Cash on Delivery,
+1078,Neha Kapoor,Delhi,Furniture,1.0,15545.74,2025-06-18,Credit Card,5
+1042,Deepak Yadav,Kolkata,Furniture,3.0,20897.54,16/01/2025,UPI,1
+1133,Amit Kumar,MUMBAI,Furniture,4.0,5219.97,20-3-2025,UPI,five
+1011,Kavita Joshi,Lucknow,Electronics,,12226.86,2025-09-03,Debit Card,3
+1013,Amit Kumar,hyderabad,Stationery,2.0,,23/11/2025,,NA
+1146,Vivek Saxena,BHOPAL,Grocery,2.0,7367.75,10/12/2025,UPI,
+1074,Ritu Chauhan,Kolkata,Clothing,5.0,20078.01,2025-11-08,Net Banking,3
+1005,Deepak Yadav,Kolkata,Footwear,,13990.2,22/06/2025,Debit Card,five
+1114,Divya Menon,Bhopal,Grocery,2.0,7633.61,4/2/2025,Net Banking,
+1102,Neha Kapoor,kolkata,Stationery,5.0,12750.64,15/10/2025,Cash on Delivery,4
+1112,Rahul Sharma,PUNE,Clothing,4.0,24863.95,12/04/2025,UPI,NA
+1121,Amit Kumar,Pune,Clothing,5.0,7450.1,4-2-2025,UPI,five
+1168,Ritu Chauhan,Chennai,Footwear,2.0,10006.31,8-9-2025,UPI,NA
+1171,Arjun Reddy,Kolkata,Furniture,,16096.11,2025-08-16,UPI,
+1024,Isha Malhotra,KOLKATA,Clothing,,24497.98,12/6/2025,Net Banking,2
+1144,Anjali Gupta,Jaipur,Grocery,5.0,8954.03,25-12-2025,Net Banking,5
+1092,Suresh Nair,Kolkata,Grocery,1.0,4657.93,10/5/2025,Credit Card,1
+1008,Deepak Yadav,Pune,Furniture,5.0,6397.64,18/01/2025,Net Banking,NA
+1053,Arjun Reddy,Bangalore,Grocery,4.0,2985.07,7/3/2025,Credit Card,3
+1027,Rahul Sharma,Bangalore,Grocery,4.0,20085.54,2025-12-28,UPI,five
+1105,Sneha Patel,Bhopal,Grocery,3.0,18134.78,2025-10-22,UPI,NA
+1118,Manoj Tiwari,Jaipur,Clothing,1.0,17943.72,15-1-2025,,1
+1163,Arjun Reddy,chennai,Footwear,5.0,5642.91,10/05/2025,Net Banking,3
+1043,Kavita Joshi,Chennai,Stationery,2.0,6077.84,16/11/2025,Net Banking,5
+1057,Vivek Saxena,Chennai,Stationery,2.0,16243.72,09/03/2025,Credit Card,5
+1165,Ritu Chauhan,Chennai,Grocery,,3737.14,1/15/2025,Cash on Delivery,4
+1022,Anjali Gupta,Jaipur,Footwear,3.0,15350.19,26/11/2025,Net Banking,3
+1116,Neha Kapoor,Delhi,Stationery,5.0,,17/09/2025,Cash on Delivery,five
+1019,Sanjay Bhatt,Delhi,Electronics,5.0,1838.83,4/28/2025,Credit Card,1
+1160,Kavita Joshi,Mumbai,Grocery,4.0,16886.47,7/18/2025,Debit Card,5
+1087,Isha Malhotra,Delhi,Electronics,,16325.28,2025-09-25,Cash on Delivery,NA
+1134,Neha Kapoor,Bhopal,Grocery,2.0,11741.84,2025-08-09,Debit Card,five
+1063,Pooja Verma,BHOPAL,Electronics,2.0,24807.59,04/08/2025,Debit Card,5
+1140,Divya Menon,HYDERABAD,Stationery,3.0,12756.78,9/17/2025,Net Banking,NA
+1108,Divya Menon,Bangalore,Clothing,2.0,4644.02,2025-10-23,,4
+1135,Isha Malhotra,Chennai,Clothing,3.0,23353.73,2025-06-24,Debit Card,
+1045,Rohan Mehta,Delhi,Footwear,2.0,2682.25,25/05/2025,Net Banking,five
+1035,Vikram Rao,Mumbai,Electronics,4.0,5588.2,12/26/2025,Credit Card,2
+1065,Sanjay Bhatt,Kolkata,Grocery,,7569.11,10/19/2025,Debit Card,NA
+1050,Kavita Joshi,Kolkata,Grocery,4.0,13903.8,12-7-2025,UPI,5
+1125,Deepak Yadav,BHOPAL,Footwear,4.0,5482.08,5/20/2025,Debit Card,
+1098,Neha Kapoor,Delhi,Electronics,2.0,10976.56,13/09/2025,Cash on Delivery,4
+1016,Rohan Mehta,Bhopal,Furniture,2.0,7071.85,2/8/2025,Net Banking,1
+1019,Sanjay Bhatt,Delhi,Electronics,5.0,1838.83,4/28/2025,Credit Card,1
+1108,Divya Menon,Bangalore,Clothing,2.0,4644.02,2025-10-23,,4
+1044,Anjali Gupta,Lucknow,Footwear,,2996.14,27-3-2025,Credit Card,five
+1068,Vikram Rao,Pune,Clothing,1.0,11816.84,6/9/2025,Credit Card,five
+1076,Neha Kapoor,Bhopal,Grocery,2.0,6535.71,27-8-2025,UPI,2
+1141,Sneha Patel,Pune,Footwear,,15787.12,20-8-2025,Net Banking,
+1112,Rahul Sharma,PUNE,Clothing,4.0,24863.95,12/04/2025,UPI,NA
+1010,Anjali Gupta,Bhopal,Stationery,1.0,15033.77,16/01/2025,UPI,5
+1084,Rahul Sharma,bangalore,Footwear,4.0,13223.23,2/24/2025,Cash on Delivery,2
+1011,Kavita Joshi,Lucknow,Electronics,,12226.86,2025-09-03,Debit Card,3
+1055,Isha Malhotra,Kolkata,Electronics,5.0,24008.7,2025-04-04,UPI,3
+1088,Deepak Yadav,Pune,Grocery,4.0,7916.21,2025-06-09,,2
+1176,Priya Singh,Delhi,Furniture,5.0,11978.73,2025-01-21,Credit Card,NA
+1111,Sneha Patel,Bhopal,Grocery,1.0,19113.45,2025-08-09,Cash on Delivery,
+1136,Ritu Chauhan,MUMBAI,Stationery,4.0,24172.16,7-10-2025,,
+1009,Isha Malhotra,Bangalore,Footwear,,6695.22,17/03/2025,UPI,4
+1137,Rahul Sharma,Delhi,Grocery,,9239.57,13/06/2025,,NA
+1032,Deepak Yadav,Bangalore,Grocery,4.0,13766.24,1-5-2025,Debit Card,NA
+1029,Suresh Nair,Hyderabad,Furniture,,24531.57,18/06/2025,Credit Card,5
+1039,Vivek Saxena,Mumbai,Stationery,4.0,12002.95,5/12/2025,Cash on Delivery,4
+1054,Vivek Saxena,kolkata,Electronics,5.0,19146.42,2025-10-20,Net Banking,5
+1056,Anjali Gupta,Mumbai,Footwear,5.0,11827.33,2-4-2025,UPI,4
+1069,Ritu Chauhan,bhopal,Clothing,,17157.33,10/04/2025,Cash on Delivery,2
+1004,Manoj Tiwari,HYDERABAD,Clothing,,6784.4,22/11/2025,Net Banking,4
+1091,,LUCKNOW,Stationery,5.0,15397.3,21/09/2025,Net Banking,5
+1059,Vivek Saxena,Lucknow,Footwear,3.0,14469.74,3/25/2025,Net Banking,3
+1174,Suresh Nair,Bhopal,Electronics,5.0,20356.96,2025-07-22,Credit Card,4
+1036,Manoj Tiwari,Bhopal,Stationery,3.0,23758.48,10/15/2025,Net Banking,
+1177,Sneha Patel,Bhopal,Clothing,2.0,22546.63,10/23/2025,,5
+1052,Rahul Sharma,bhopal,Electronics,5.0,7409.6,11/5/2025,Credit Card,
+1107,Pooja Verma,Bangalore,Grocery,4.0,4921.33,05/03/2025,UPI,1
+1048,Deepak Yadav,HYDERABAD,Clothing,4.0,5421.18,26-5-2025,UPI,5
+1096,Deepak Yadav,Bhopal,Stationery,5.0,,26/06/2025,Cash on Delivery,1
+1075,Priya Singh,Kolkata,Electronics,5.0,9216.8,5-2-2025,UPI,3
+1151,Vikram Rao,Bhopal,Clothing,1.0,8367.5,24-8-2025,,5
+1080,Vikram Rao,Pune,Furniture,5.0,10291.68,9-1-2025,Debit Card,NA
+1099,Anjali Gupta,Delhi,Electronics,5.0,12822.31,25-6-2025,Debit Card,4
+1124,Neha Kapoor,Hyderabad,Electronics,5.0,3571.72,12-7-2025,UPI,3
+1154,Manoj Tiwari,KOLKATA,Footwear,1.0,16021.98,2025-06-10,Debit Card,
+1117,Suresh Nair,mumbai,Grocery,2.0,18363.58,21-2-2025,,3
+1085,Kavita Joshi,LUCKNOW,Furniture,,24106.05,8/2/2025,Cash on Delivery,
+1001,Divya Menon,Mumbai,Footwear,,17577.93,4/14/2025,Net Banking,3
+1113,Vikram Rao,MUMBAI,Footwear,2.0,19007.2,16/08/2025,,3
+1164,Isha Malhotra,Bhopal,Grocery,,16832.86,26-9-2025,Cash on Delivery,3
+1116,Neha Kapoor,Delhi,Stationery,5.0,,17/09/2025,Cash on Delivery,five
+1018,Meera Iyer,JAIPUR,Clothing,1.0,14542.63,18-1-2025,,3
+1010,Anjali Gupta,BHOPAL,Stationery,1.0,15033.77,16/01/2025,UPI,5
+1054,Vivek Saxena,kolkata,Electronics,5.0,19146.42,2025-10-20,Net Banking,5
+1110,Pooja Verma,Pune,Furniture,2.0,20449.75,2025-10-26,,NA
+1028,Ritu Chauhan,CHENNAI,Grocery,3.0,20540.33,2025-04-28,Credit Card,5
+1127,Sanjay Bhatt,chennai,Clothing,2.0,19790.77,1-6-2025,Cash on Delivery,2
+1127,Sanjay Bhatt,chennai,Clothing,2.0,19790.77,1-6-2025,Cash on Delivery,2
+1049,Sanjay Bhatt,CHENNAI,Furniture,5.0,18990.39,8/23/2025,Cash on Delivery,4
+1094,Suresh Nair,Jaipur,Furniture,5.0,11134.8,09/04/2025,UPI,
+1020,Isha Malhotra,Lucknow,Grocery,3.0,5225.84,2025-06-23,UPI,5
+1037,Kavita Joshi,Kolkata,Stationery,4.0,15724.7,09/08/2025,UPI,2
+1079,Sneha Patel,bangalore,Grocery,4.0,3035.59,2025-09-08,Cash on Delivery,five
+1123,Vikram Rao,Lucknow,Furniture,1.0,3286.82,8-11-2025,UPI,3
+1033,Manoj Tiwari,Chennai,Footwear,2.0,16522.44,10-9-2025,Credit Card,5
+1007,Isha Malhotra,lucknow,Clothing,5.0,12413.87,25/01/2025,Debit Card,five
+1062,Ritu Chauhan,Jaipur,Clothing,3.0,13798.11,8/10/2025,,4
+1142,Divya Menon,PUNE,Electronics,5.0,23712.9,04/04/2025,Cash on Delivery,4
+1069,Ritu Chauhan,BHOPAL,Clothing,,17157.33,10/04/2025,Cash on Delivery,2
+1157,Vivek Saxena,JAIPUR,Electronics,4.0,3428.82,14/08/2025,Net Banking,1
+1097,Amit Kumar,Hyderabad,Stationery,4.0,17781.05,14/05/2025,,
+1110,Pooja Verma,Pune,Furniture,2.0,20449.75,2025-10-26,,NA
+1104,Sanjay Bhatt,Bhopal,Grocery,3.0,22960.73,13-7-2025,,NA
+1069,Ritu Chauhan,bhopal,Clothing,,17157.33,10/04/2025,Cash on Delivery,2
+1090,Priya Singh,Kolkata,Grocery,1.0,14511.28,3/7/2025,Debit Card,NA
+1129,Meera Iyer,lucknow,Furniture,5.0,22781.2,2025-02-02,UPI,4
+1060,Isha Malhotra,Jaipur,Furniture,3.0,10297.45,11/11/2025,Debit Card,5
+1002,Arjun Reddy,KOLKATA,Electronics,1.0,9591.19,12-6-2025,Credit Card,five
+1066,Meera Iyer,Pune,Grocery,2.0,24522.25,10/8/2025,Debit Card,NA
+1150,Deepak Yadav,JAIPUR,Electronics,1.0,7565.05,20-2-2025,UPI,
+1081,Neha Kapoor,Bhopal,Footwear,3.0,1654.67,09/04/2025,Cash on Delivery,1
+1026,Rohan Mehta,Chennai,Grocery,5.0,22120.75,2025-10-14,Debit Card,3
+1142,Divya Menon,pune,Electronics,5.0,23712.9,04/04/2025,Cash on Delivery,4
+1167,Rohan Mehta,Lucknow,Stationery,2.0,12062.95,28-6-2025,Credit Card,2
+1093,Sanjay Bhatt,CHENNAI,Grocery,2.0,9345.82,24/06/2025,Credit Card,1
+1172,Meera Iyer,Mumbai,Electronics,,1355.58,2025-07-01,,4
+1148,Priya Singh,Delhi,Footwear,4.0,2648.54,25/03/2025,Net Banking,
+1166,Arjun Reddy,Delhi,Grocery,1.0,13460.54,27/04/2025,UPI,1
+1119,Pooja Verma,BHOPAL,Grocery,1.0,18869.28,7-5-2025,Credit Card,2
+1149,Rohan Mehta,kolkata,Electronics,,14417.21,18/12/2025,Debit Card,1
+1138,Amit Kumar,Pune,Stationery,3.0,20658.99,20/11/2025,Debit Card,NA
+1169,Neha Kapoor,Bhopal,Furniture,1.0,20099.99,24-8-2025,Debit Card,4
+1107,Pooja Verma,Bangalore,Grocery,4.0,4921.33,05/03/2025,UPI,1
+1147,Meera Iyer,Kolkata,Footwear,3.0,3561.23,2025-12-20,,4
+1021,Amit Kumar,Mumbai,Stationery,1.0,1970.53,7-9-2025,Debit Card,4
+1000,Sneha Patel,Mumbai,Clothing,2.0,,04/11/2025,Net Banking,4
+1035,Vikram Rao,Mumbai,Electronics,4.0,5588.2,12/26/2025,Credit Card,2
+1131,Vivek Saxena,BANGALORE,Footwear,5.0,8539.85,19/01/2025,,5
+1152,Rohan Mehta,Bangalore,Footwear,4.0,20700.7,17/06/2025,Cash on Delivery,3
+1106,,Bangalore,Electronics,3.0,14039.21,2025-06-21,Net Banking,NA
